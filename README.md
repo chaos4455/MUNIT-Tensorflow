@@ -1,10 +1,11 @@
-# MUNIT-Tensorflow
+﻿# MUNIT-Tensorflow
 Simple Tensorflow implementation of ["Multimodal Unsupervised Image-to-Image Translation"](https://arxiv.org/abs/1804.04732)
 
 ## Requirements
 * Tensorflow 1.4
 * Python 3.6
 
+This is an fork
 ## Issue
 * Author uses so many iterations (1M = 1,000,000)
 * Author uses LSGAN, but do not multiply each of G and D by 0.5
